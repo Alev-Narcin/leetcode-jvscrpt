@@ -1,5 +1,5 @@
 import './App.css';
-import LongestCommonPrefix from "./solutions/longestCommonPrefix";
+import LongestCommonPrefix from "./solutions/longest-common-prefix";
 
 function App() {
     return (
@@ -16,7 +16,7 @@ function App() {
                     {/*<IsValidTo value={"[{]}]"}/>*/}
                     {/*<RomanToInt string={"LVIII"}/>*/}
                     {/*<LongestCommonPrefix value={["flower", "flow", "flight"]}/>*/}
-                    <LongestCommonPrefix value={["flower", "flow", "flight"]}/>
+                    {/*<LongestCommonPrefix value={["flower", "flow", "flight"]}/>*/}
                 </button>
             </div>
         </div>

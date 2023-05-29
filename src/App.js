@@ -1,6 +1,4 @@
 import './App.css';
-import RemoveDuplicates from "./solutions/remove-duplicates";
-import RemoveDuplicatesSol from "./solutions/remove-duplicates";
 
 function App() {
     return (

@@ -1,5 +1,6 @@
 import './App.css';
-import LongestCommonPrefix from "./solutions/longest-common-prefix";
+import RemoveDuplicates from "./solutions/remove-duplicates";
+import RemoveDuplicatesSol from "./solutions/remove-duplicates";
 
 function App() {
     return (
@@ -17,6 +18,8 @@ function App() {
                     {/*<RomanToInt string={"LVIII"}/>*/}
                     {/*<LongestCommonPrefix value={["flower", "flow", "flight"]}/>*/}
                     {/*<LongestCommonPrefix value={["flower", "flow", "flight"]}/>*/}
+                    {/*<RemoveDuplicatesSol arrs={[1, 2, 3, 3, 4, 4, 4, 5, 6]}/>*/}
+
                 </button>
             </div>
         </div>

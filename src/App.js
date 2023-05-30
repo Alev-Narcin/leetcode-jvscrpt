@@ -18,6 +18,7 @@ function App() {
                     {/*<LongestCommonPrefix value={["flower", "flow", "flight"]}/>*/}
                     {/*<RemoveDuplicatesSol arrs={[1, 2, 3, 3, 4, 4, 4, 5, 6]}/>*/}
                     {/*<RemoveElementSol param1={[1, 2, 3, 3, 4, 4, 4, 5, 6]} param2={3}/>*/}
+                    {/*<FirstOccureInHaystackSol haystack="Sadbutsad" needle="sad"/>*/}
 
                 </button>
             </div>

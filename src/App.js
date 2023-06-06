@@ -5,8 +5,8 @@ function App() {
         <div className="App">
             <div>
                 <button style={{
-                    width: "150px",
-                    height: "150px",
+                    width: "%100",
+                    height: "%150",
                     fontSize: '100px',
                     position: "absolute",
                     top: "40%",
@@ -21,6 +21,8 @@ function App() {
                     {/*<FirstOccureInHaystackSol haystack="Sadbutsad" needle="sad"/>*/}
                     {/*<SearchInsertSol nums={[1, 2, 3, 6, 9]} target={7}/>*/}
                     {/*<LengthOfLastWordSol sentence={"   fly me   to   the moon   "}/>*/}
+                    {/*<OnePlusSol digits={[9, 9]}/>*/}
+                    {/*<AddBinarySol value={"1010"} value2={"1011"}/>*/}
 
                 </button>
             </div>

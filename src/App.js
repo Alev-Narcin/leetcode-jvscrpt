@@ -1,4 +1,5 @@
 import './App.css';
+import SquareRootSol from "./solutions/square";
 
 function App() {
     return (
@@ -23,6 +24,7 @@ function App() {
                     {/*<LengthOfLastWordSol sentence={"   fly me   to   the moon   "}/>*/}
                     {/*<OnePlusSol digits={[9, 9]}/>*/}
                     {/*<AddBinarySol value={"1010"} value2={"1011"}/>*/}
+                    <SquareRootSol value={8}/>
 
                 </button>
             </div>

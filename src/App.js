@@ -1,5 +1,4 @@
 import './App.css';
-import SquareRootSol from "./solutions/square";
 
 function App() {
     return (
@@ -24,7 +23,11 @@ function App() {
                     {/*<LengthOfLastWordSol sentence={"   fly me   to   the moon   "}/>*/}
                     {/*<OnePlusSol digits={[9, 9]}/>*/}
                     {/*<AddBinarySol value={"1010"} value2={"1011"}/>*/}
-                    <SquareRootSol value={8}/>
+                    {/*<SquareRootSol value={8}/>*/}
+                    {/*<DeleteDuplicatesSol
+                        head={new ListNode(1, new ListNode(2, new ListNode(2, new ListNode(3, null))))}/>*/}
+                    {/*<MergeTwoListsSol list1={new ListNode(1, new ListNode(2, new ListNode(4, null)))}
+                                      list2={new ListNode(1, new ListNode(3, new ListNode(4, null)))}/>*/}
 
                 </button>
             </div>

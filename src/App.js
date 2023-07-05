@@ -28,6 +28,7 @@ function App() {
                         head={new ListNode(1, new ListNode(2, new ListNode(2, new ListNode(3, null))))}/>*/}
                     {/*<MergeTwoListsSol list1={new ListNode(1, new ListNode(2, new ListNode(4, null)))}
                                       list2={new ListNode(1, new ListNode(3, new ListNode(4, null)))}/>*/}
+                    {/*<MergeSorted2Arrays nums1={[1, 2, 3, 0, 0, 0]} m={3} nums2={[2, 5, 6]} n={3}/>*/}
 
                 </button>
             </div>
